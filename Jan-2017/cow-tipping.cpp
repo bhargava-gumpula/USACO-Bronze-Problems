@@ -1,3 +1,4 @@
+// incomplete
 #include <stdio.h>
 #include <algorithm>
 #include <iostream>
@@ -44,7 +45,6 @@ int main() {
             }
         }
     }
-
     fout << flips << endl;
 
     fin.close();
